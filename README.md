@@ -1,6 +1,14 @@
 # HireLoop Server
 
-Backend REST API for **HireLoop**, a job portal and recruitment platform built with Express, MongoDB, and Stripe. It provides role-based access control for job seekers, recruiters, and administrators, along with job management, application tracking, and Stripe Checkout payment verification for premium accounts.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%205-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## About
+
+**HireLoop Server** is the backend REST API for the **HireLoop** job portal and recruitment platform. Built with Express 5, MongoDB, and Stripe, it powers role-based access control for job seekers, recruiters, and administrators, job listing search and filtering, application tracking, and Stripe Checkout payment verification for premium accounts.
 
 ---
 
